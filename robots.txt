@@ -1,0 +1,4 @@
+ser-agent: *
+Disallow: /favicon.ico
+
+Stiemap: http://lctdehao.github.io/sitemap.xml
